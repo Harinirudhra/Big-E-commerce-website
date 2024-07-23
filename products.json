@@ -1,0 +1,81 @@
+[
+ {
+    "name":"OPPO F21 PRO 5G",
+    "price":245.67,
+    "description":"OPPO IS POWERFUL DEVICE ",
+    "rating":4.5,
+    "images":[
+        {
+          "image":"/images/products/1.jpg"
+       },
+       {
+           "image":"/images/products/1.jpg"
+       }
+    ],
+    "category":"Mobile phone",
+    "seller":"Amazon",
+    "stock":5
+    
+ },
+ {
+    "name":"WRISTIO HD,Bluetooth calling smart watch",
+    "price":150.32,
+    "description":"minix IS POWERFUL DEVICE ",
+    "rating":3.5,
+    "images":[
+        
+       {
+           "image":"/images/products/2.jpg"
+       }
+    ],
+    "category":"Accessories",
+    "seller":"flipkart",
+    "stock":9
+ },
+ {
+    "name":"Dell inspiron 3511 laptop",
+    "price":440.32,
+    "description":"Dell IS POWERFUL DEVICE ",
+    "rating":3.0,
+    "images":[
+        
+       {
+           "image":"/images/products/3.jpg"
+       }
+    ],
+    "category":"Accessories",
+    "seller":"flipkart",
+    "stock":10
+ },
+ {
+    "name":"Watch",
+    "price":440.32,
+    "description":"Watch IS POWERFUL DEVICE ",
+    "rating":3.0,
+    "images":[
+        
+       {
+           "image":"/images/products/4.jpg"
+       }
+    ],
+    "category":"Accessories",
+    "seller":"flipkart",
+    "stock":8
+ },
+ {
+    "name":"IWatch inspiron ",
+    "price":440.32,
+    "description":"Iwatch IS POWERFUL DEVICE ",
+    "rating":4.0,
+    "images":[
+        
+       {
+           "image":"/images/products/5.jpg"
+       }
+    ],
+    "category":"Accessories",
+    "seller":"Amazon",
+    "stock":9
+ }
+  
+]
